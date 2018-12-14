@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.profiler.handler;
+package kr.lesile.processes.transaction.log.profiler.handler;
 
 import static org.junit.Assert.*;
 

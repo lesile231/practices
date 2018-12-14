@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.profiler.receiver;
+package kr.lesile.processes.transaction.log.profiler.receiver;
 
 import java.util.Properties;
 

@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.common.datamap;
+package kr.lesile.processes.transaction.log.common.datamap;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertNotNull;

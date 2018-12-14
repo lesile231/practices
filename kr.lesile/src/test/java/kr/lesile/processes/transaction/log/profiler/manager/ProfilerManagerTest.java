@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.profiler.manager;
+package kr.lesile.processes.transaction.log.profiler.manager;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.producer.sender;
+package kr.lesile.processes.transaction.log.producer.sender;
 
 import static org.mockito.Matchers.any;
 import static org.mockito.Mockito.mock;

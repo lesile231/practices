@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.common.thread;
+package kr.lesile.processes.transaction.log.common.thread;
 
 import static org.junit.Assert.*;
 

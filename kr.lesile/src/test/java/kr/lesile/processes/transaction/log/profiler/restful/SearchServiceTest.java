@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.profiler.restful;
+package kr.lesile.processes.transaction.log.profiler.restful;
 
 import static org.junit.Assert.assertTrue;
 

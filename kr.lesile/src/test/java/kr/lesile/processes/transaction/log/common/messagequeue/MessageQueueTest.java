@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.common.messagequeue;
+package kr.lesile.processes.transaction.log.common.messagequeue;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertNotNull;

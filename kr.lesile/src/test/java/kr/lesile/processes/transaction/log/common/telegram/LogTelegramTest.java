@@ -1,4 +1,4 @@
-package kr.lesile.kakaobank.codingtest.transaction.log.common.telegram;
+package kr.lesile.processes.transaction.log.common.telegram;
 
 import static org.junit.Assert.assertNotNull;
 
